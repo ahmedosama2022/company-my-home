@@ -1,0 +1,61 @@
+.sec222{
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.Footer{
+  padding: 30px 30px;
+    margin-top: 100px;
+    background: #1e1332;
+    color: white;
+}
+
+.sec222 h6{
+    color: gray;
+    margin-top: 20px;
+}
+.sec222 h2{
+    margin-bottom: 20px;
+}
+
+.sec222 .bk{
+    width: 200px;
+    height: 60px;
+    background-color: #4d2a8f;
+    color: white;
+    border: none;
+}
+.div1{
+    color: black;
+}
+.div2{
+    color: black;
+}
+.dim video{
+    position: relative;
+    bottom: 10px;
+}
+.div77 .hr{
+    color: #1e1332;
+}
+
+@media only screen and 
+  (max-width: 500px) {
+
+    .sec222{
+        display: block;
+       align-items: center;
+       text-align: center;
+       
+       
+    }
+    .dim {
+        position: relative;
+        margin-right: 30px;
+    }
+   .Footer{
+      width: 100vh;
+      margin-left: 10px;
+    }
+  }

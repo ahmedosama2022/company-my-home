@@ -1,0 +1,172 @@
+.Aboutus img{
+    height: 600px;
+    width: 100%;
+}
+
+
+.im2 img{
+    width: 600px;
+    height: 500px;
+}
+.sec33{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+    background-color:white;
+    padding-top: 50px;
+    padding-bottom: 30px;
+    padding: 40px 30px;
+   
+}
+.sec78 img{
+    width: 70px;
+    height: 60px;
+}
+.se122{
+   position: relative;
+ bottom: 400px;
+    align-items: center;
+    text-align: center;
+    
+}
+.sec33 h6{
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
+.se122 h1{
+    color: white;
+}
+.sec33 h6{
+    color: gray;
+}
+.bt2{
+    width: 200px;
+    height: 50px;
+    border: none;
+    color: white;
+    background-color:#adc867;
+}
+.hh11{
+    text-align: center;
+    align-items: center;
+}
+.hh11 h6{
+    color: gray;
+}
+.im1 img{
+    width: 60px;
+    height: 50px;
+}
+.im1{
+    display: flex;
+    justify-content: space-between;
+    width: 250px;
+    margin-bottom: 30px;
+}
+.sec45{
+    background-color: #f3f7fb;
+    padding:20px 0 ;
+    position: relative;
+    bottom: 200px;
+}
+.sd1{
+    background-color:white;
+    padding: 30px 20px;
+    border-radius: 15px;
+}
+.sd1:hover{
+  border: 2px solid green;
+  
+  box-shadow: #adc867;
+}
+.sec33{
+    display: flex;
+    justify-content: space-between;
+    background-color: #f3f7fb;
+}
+.sec78{
+    display: flex;
+    justify-content: space-between;
+    background-color: #55407d;
+    color: white;
+    padding: 50px 70px;
+    position: relative;
+    bottom: 50px;
+}
+.scf h1{
+    font-size: 40px;
+}
+.sec321{
+    text-align: center;
+    align-items: center;
+}
+.sec321 h6{
+    color: gray;
+}
+.divn1{
+  width: 300px;
+  padding-bottom: 40px;
+  border-radius: 15px;
+  background-color: gainsboro;
+  margin-top: 30px;
+}
+.vb{
+    padding: 10px 20px;
+}
+.vb h5{
+    color: #adc867;
+    margin-bottom: 20px;
+}
+.divn1 img{
+  height: 350px;
+  border-radius: 15px;
+}
+.sec658{
+    display: flex;
+    justify-content: space-between;
+}
+.tn{
+    width: 270px;
+    height: 60px;
+    background-color: #adc867;
+    color: white;
+    border: none;
+   position: relative;
+   left: 38%;
+   margin-top: 70px;
+}
+.tn:hover{
+    background-color: #55407d;
+    transition: 1s ease-in-out ;
+}
+@media only screen and 
+  (max-width: 500px) {
+
+    .Aboutus{
+        width: 100vh;
+    }
+    .sec33{
+        display: block;
+    }
+    .sec33 img{
+        margin-top: 30px;
+    }
+    .bt2{
+        position: relative;
+        right: 15%;
+    }
+    .sec658{
+        display: block;
+        width: 100vh;
+    }
+    .sec78{
+        display: block;
+    }
+    .divn1{
+        width: 100vh;
+        height: 600px;
+       text-align: center;
+       align-items: center;
+    }
+  }
+
